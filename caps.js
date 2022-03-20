@@ -1,7 +1,7 @@
 'use strict';
 // const Events = require('events');
 // let eventEmitter = new Events();
-const eventEmitter =require('./lib/events')
+const eventEmitter =require('./lib/events');
 const chance = require('./lib/chance');
 
 
